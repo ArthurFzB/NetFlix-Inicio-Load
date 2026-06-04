@@ -10,6 +10,8 @@ Pode ultilizar a estrutura para criar algo que seja do seu interesse ou ate mesm
 
 ## 💻 Demonstração em Video --> Link: https://youtu.be/TwKA1mfMhQs
 
+<img src="(https://github.com/ArthurFzB/NetFlix-Inicio-Load/blob/main/Assets/brave_screenshot.png)" alt="Imagem da Landpage">
+
 ## 🛠️ Tecnologias Utilizadas
 
 Liste as principais ferramentas, linguagens e bibliotecas que você usou:
